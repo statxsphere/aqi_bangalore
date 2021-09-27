@@ -2,7 +2,7 @@
 
 **The Blog post for this project can be found [here](https://shoobydo.substack.com/p/the-covid-lockdowns-were-a-breath).**
 
-### Part 1: Performing hypothesis testing to determine change in air quality before and after travel restrictions:
+### Part 1: Hypothesis Testing - Contrasting Data Before and After Travel Restrictions:
 A one-way F-test (ANOVA) was run on AQI grouped into pre and post travel restrictions.
 
 ### Part 2: Implementing a Recurrent Neural Network to forecast future AQI:
